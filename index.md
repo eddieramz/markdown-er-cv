@@ -44,3 +44,7 @@ __High School Admissions Counselor__, University of California, Riverside
 
 `2020-now`
 __Transfer Admissions Counselor and Former Foster Youth Liaison__, University of California, Riverside
+
+## Jupyter Clone Edit for Exercise 3
+
+Add Jupyterlab expert to the resume 
